@@ -69,7 +69,7 @@ function Home() {
     return (
         <div className="my-10 px-4 text-center sm:my-16">
         <p className="mx-auto py-4">
-        👋 Welcome! Please start by creating a game:
+        👋 Welcome! Please start by creating a game
         </p>
         <h1 className="mb-8  text-xl font-semibold md:text-3xl py-4">
         Join 1v1 MCQ GAME.
